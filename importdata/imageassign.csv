@@ -1,0 +1,3 @@
+"sku","image","thumbnail","small_image"
+"test-product","/a/b/abc.png","/a/b/def.png","/a/b/ghi.png"
+"test-sku-2","/a/b/ghi.png","/a/b/def.png","/a/b/abc.png"
